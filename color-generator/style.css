@@ -17,5 +17,7 @@
 .color-code {
   margin-top: 50px;
   margin-bottom: 10px;
-  width: 50%;
+  display: inline-block;
+  color: aqua;
+  background-color: black;
 }
